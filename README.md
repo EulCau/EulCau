@@ -1,38 +1,35 @@
-# Hi there, I'm EulCau 👋
+# Hi, I'm EulCau
 
-🎓 **Undergraduate Student in Computational Mathematics** at [University of Science and Technology of China](https://www.ustc.edu.cn/)  
-🔬 Research interests: **Numerical Analysis**, **Optimization**, **Machine Learning for Scientific Computing**, **High-Performance Computing (HPC)**
-
----
-
-## 📌 About Me
-- 💻 Passionate about **mathematics + computing**, especially applying deep learning and numerical methods to solve PDEs and optimization problems.
-- 🔭 Currently working on:  
-  - Random Feature Methods for high dimentional PDEs
-  - GPU acceleration with CUDA & PyCUDA
-- 🎮 Also enjoy computer games like *Cyberpunk 2077* and *The Witcher 3*.
+I am an Undergraduate Student in Computational Mathematics at the [USTC](https://www.ustc.edu.cn/). My focus lies at the intersection of mathematics and computing, specifically in bridging numerical analysis with modern machine learning. You can reach me at [lx_0318@mail.ustc.edu.cn](mailto:lx_0318@mail.ustc.edu.cn).
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Python, C++, CUDA, LaTeX, MATLAB
-- **Frameworks & Tools**: CMake, PyTorch, NumPy, Git, Linux (Ubuntu)
-- **Math Skills**: Numerical PDEs, Optimization, Probability, Wavelet Analysis
+### Research Interests
+* **Numerical Analysis & PDEs**: Solving high-dimensional problems using Random Feature Methods.
+* **Scientific Machine Learning (SciML)**: Integrating deep learning with traditional numerical solvers.
+* **High-Performance Computing**: Optimizing scientific workflows via CUDA and GPU acceleration.
+
+### Skills
+* **Programming**: Python, C++, CUDA, MATLAB
+* **Tools & Environment**: PyTorch, CMake, Linux, Git, LaTeX
+* **Theory**: Numerical PDEs, Optimization, Wavelet Analysis
+
+### Honors & Awards
+* **Academician Chen Guoliang Scholarship**, USTC (2023)
+* **Second Prize**, Mathematical Modeling Competition (Anhui), 2023
+* **Third Prize**, National Undergraduate Mathematics Competition (Anhui), 2023
 
 ---
 
-## 🏆 Honors & Awards
-- **Second Prize** – Undergraduate Group, Anhui Division, Mathematical Modeling Competition (2023)
-- **Third Prize** - Mathematics Group, Anhui Division, Preliminary Round, National Undergraduate Mathematics Competition (2023)
-- **Academician Chen Guoliang Scholarship** – USTC (2023)
+### Beyond Academics
+* **Sports**: Staying active through **Badminton** and **Swimming**.
+* **Gaming**: Huge fan of immersive RPGs like *The Witcher 3*, *Cyberpunk 2077*, and *Kingdom Come: Deliverance*.
+* **Tabletop & Cards**: I enjoy the strategic depth of **Dungeons & Dragons** and various card games.
+
+### Contact
+* **Email**: `lx_0318@mail.ustc.edu.cn`
+* **GitHub**: [EulCau](https://github.com/EulCau)
 
 ---
 
-## 📫 Contact
-- Email: `lx_0318@mail.ustc.edu.cn`
-- GitHub: [EulCau](https://github.com/EulCau)
-
----
-
-⭐ *"Mathematics is the language of the universe, computation is the voice."*
-
+> "Mathematics is the language of the universe, computation is its voice."
